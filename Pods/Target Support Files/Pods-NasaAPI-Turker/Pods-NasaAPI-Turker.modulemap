@@ -1,0 +1,6 @@
+framework module Pods_NasaAPI_Turker {
+  umbrella header "Pods-NasaAPI-Turker-umbrella.h"
+
+  export *
+  module * { export * }
+}
